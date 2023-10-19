@@ -19,6 +19,7 @@ In this project, we perform an in-depth EDA on the SampleSuperstore dataset. EDA
 ## Dataset Information
 The SampleSuperstore dataset contains information about fictional sales transactions, including details about customers, products, and orders. It includes columns such as Customer Name, Product Name, Sales, Quantity, and more.
 
+You can find the dataset in the directory.
 
 ## Getting Started
 To get started with this project, follow these steps:
